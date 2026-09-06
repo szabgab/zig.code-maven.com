@@ -21,4 +21,4 @@ The Zig programming language gives you full control, superb ergonomics, and fast
 
 30 minutes
 
-<a class="button is-primary" href="">register</a>
+<a class="button is-primary" href="https://luma.com/ad4e9uv9">register</a>
