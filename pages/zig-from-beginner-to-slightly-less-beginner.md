@@ -14,7 +14,7 @@ The Zig programming language gives you full control, superb ergonomics, and fast
 
 ## Bio
 
-[Sawyer X](https://www.linkedin.com/in/sawyer-x-040507214/) is an open source developer, a past project lead for the Perl 5 language ("Pumpking"), and conference speaker.
+Sawyer X is an open source developer, a past project lead for the Perl 5 language ("Pumpking"), and conference speaker.
 
 
 ## Length
