@@ -7,3 +7,6 @@ description: The text for the search engines
 ---
 
 See our [events](https://luma.com/zig-maven)
+
+* [Zig programming language](https://ziglang.org/)
+* [Zig community](https://ziglang.org/community)
