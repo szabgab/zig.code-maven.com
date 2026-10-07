@@ -9,6 +9,7 @@ description: The text for the search engines
 
 * [Zig programming language](https://ziglang.org/)
 * [Zig community](https://ziglang.org/community)
+* [Zigistry](https://zigistry.dev/) - Ziglang packages
 
 
 * [Ziggit](https://ziggit.dev/) A Zulip for Zig
