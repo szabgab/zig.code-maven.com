@@ -1,5 +1,5 @@
 ---
-title: A Developer-First Shell Built in Zig
+title: Wolysh - A Developer-First Shell Built in Zig
 timestamp: 2026-10-07T19:30:01
 author: szabgab
 published: true
