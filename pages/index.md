@@ -14,6 +14,8 @@ description: The text for the search engines
 
 * [Ziggit](https://ziggit.dev/) A Zulip for Zig
 
+* [Ziglings](https://codeberg.org/ziglings/exercises/) for learning Zig.
+
 ## Events
 
 See our [events](https://luma.com/zig-maven)
