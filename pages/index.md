@@ -12,7 +12,7 @@ description: The text for the search engines
 * [Zigistry](https://zigistry.dev/) - Ziglang packages
 
 
-* [Ziggit](https://ziggit.dev/) A Zulip for Zig
+* [Ziggit](https://ziggit.dev/) A Discourse for Zig.
 
 * [Ziglings](https://codeberg.org/ziglings/exercises/) for learning Zig.
 
