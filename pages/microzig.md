@@ -15,6 +15,9 @@ Description will be added soon.
 
 [Matthew Knight](https://www.linkedin.com/in/matthew-knight-a9b70894/)
 
+## Length
+
+20 min
 
 
 <a class="button is-primary" href="https://luma.com/zknev1e7">register</a>
