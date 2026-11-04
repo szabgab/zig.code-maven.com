@@ -21,4 +21,4 @@ Sawyer X is an open source developer, a past project lead for the Perl 5 languag
 
 30 minutes
 
-<a class="button is-primary" href="https://luma.com/ad4e9uv9">register</a>
+{% youtube id="jWCQXBVIyrY" file="2026-10-28-zig-from-beginner-to-slightly-less-beginner.mp4" %}
